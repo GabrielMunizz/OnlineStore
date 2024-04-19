@@ -8,13 +8,9 @@ O objetivo da aplicação foi simular um site de e-commerce com utilização de 
 
 A aplicação é responsiva  e possui uma cobertura acima de 90% nos testes.
 
-<div style="display: flex; justify-content: center;">
-    <img src="ReadMeImages/note.png" width="250">   
-</div>
+![note.png](ReadMeImages/note.png)
 
-<div style="display: flex; justify-content: center;">
-    <img src="ReadMeImages/phone.png" width="250">   
-</div>
+![phone.png](ReadMeImages/phone.png)
 
 ## Features:
 

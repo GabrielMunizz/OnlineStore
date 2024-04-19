@@ -24,6 +24,7 @@ function DropDownMenu() {
             <CartButton />
           </div>
           <Link
+            aria-label="cartButton"
             onClick={ handleOpen }
             to="/cart"
           >

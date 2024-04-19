@@ -25,4 +25,5 @@ describe('Testes do MobileMenu', () => {
 
     expect(mockContextValues.setIsOpen).toHaveBeenCalled();
   });
+ 
 });

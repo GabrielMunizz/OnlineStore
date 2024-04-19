@@ -5,25 +5,27 @@ export const RegisterPage = styled.section`
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  width: 100%;
-  background-color: #068fff;
-  height: 100vh;
+  width: 100%;  
   color: #fff;
 
   & header {
-    margin: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    background-color: #068fff;
+    margin-bottom: 1rem;
   }
 
   & header img {
-    width: 200px;
+    margin: 1rem;
+    width: 150px
   }
 
-  @media (min-width: 320px) {
-    height: calc(100vh + 20vh);
-  }
-
-  @media (min-width: 768px) {
-    height: 100vh;
+  @media (min-width: 1280px) {
+    header img {
+      width: 200px
+    }
   }
 `;
 
@@ -38,6 +40,7 @@ export const RegisterForm = styled.form`
   border-radius: 5px;
   width: 28rem;
   height: 40rem;
+  margin-bottom: 1rem;
 
   & label {
     display: flex;

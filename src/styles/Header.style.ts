@@ -158,6 +158,10 @@ export const Header = styled.header`
       justify-content: space-between;
       align-items: center;          
     }  
+
+    & .defaultHeader img {
+      transform: translateX(17%);
+    }
   }
 
   @media (min-width: 2400px) {

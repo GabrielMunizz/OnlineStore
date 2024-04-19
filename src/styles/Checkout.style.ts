@@ -30,7 +30,7 @@ export const CheckoutPage = styled.section`
   }
 
   @media (min-width: 1280px) {
-    .checkoutContent {
+    & .checkoutContent {
       padding: 0;
     }
   }
@@ -88,17 +88,20 @@ export const FormContainer = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 30%;
+  width: 90%;
+
+  @media (min-width: 1280px) {
+    width: 30%;
+  }
 `;
 
 export const BuyerInfoForm = styled.form`
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  flex-direction: column;  
   justify-content: space-between;
   align-items: center;
   padding: 2rem;
-  width: 90%;  
+  width: 18rem;  
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
   border-radius: 7px;
   background-color: #fff;
@@ -117,14 +120,20 @@ export const BuyerInfoForm = styled.form`
     background-color: #eeee;
     height: 1.5rem;
   }
+
+  @media (min-width: 768px) {
+    flex-direction: row;
+    flex-wrap: wrap; 
+    width: 90%; 
+  }
 `;
 
 export const PayingMethodContainer = styled.section`
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: flex-start;
-  width: 20%;
+  align-items: center;
+  width: 90%;
 
   & aside {
     display: flex;
@@ -170,16 +179,24 @@ export const PayingMethodContainer = styled.section`
     padding: 0 1.2rem;
     margin: 1rem 0;
   }
+  
 
   @media (min-width: 1280px) {
     width: 25%;    
+    align-items: flex-start;   
   }
 `;
 
 export const FormAndPayment = styled.div`
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-around;
-  align-items: flex-start;
+  align-items: center;
   width: 80%;
+
+
+  @media (min-width: 1280px) {
+    flex-direction: row;
+    align-items: flex-start;
+  }
 `;

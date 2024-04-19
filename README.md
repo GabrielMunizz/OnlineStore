@@ -74,8 +74,8 @@ A aplicação é responsiva  e possui uma cobertura acima de 90% nos testes.
         <h3>Gabriel Muniz Ferreira</h3>
         <p>Desenvolvedor Full- Stack | React.JS | TypeScript | Redux | Node.JS | MySQL | Metodologias Ágeis</p>
         <p><a href="https://www.linkedin.com/in/gabriel-muniz-dev/" target="_blank">Linkedin</a></p>
-        <p>Email: <a href="mailto:gabrielmfd@gmail.com">gabrielmfd@gmail.com</a></p>
         <p><a href="https://github.com/GabrielMunizz" target="_blank">GitHub</a></p>
+        <p>Email: <a href="mailto:gabrielmfd@gmail.com">gabrielmfd@gmail.com</a></p>
     </div>
 </div>
 

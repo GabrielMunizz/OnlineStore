@@ -8,9 +8,9 @@ O objetivo da aplicação foi simular um site de e-commerce com utilização de 
 
 A aplicação é responsiva  e possui uma cobertura acima de 90% nos testes.
 
-![note.png](Online%20Store%2089afb34d4ec746ccab1ae9b3efcfb89e/note.png)
+![note.png](ReadMeImages/note.png)
 
-![phone.png](Online%20Store%2089afb34d4ec746ccab1ae9b3efcfb89e/phone.png)
+![phone.png](ReadMeImages/phone.png)
 
 ## Features:
 
@@ -23,21 +23,24 @@ A aplicação é responsiva  e possui uma cobertura acima de 90% nos testes.
 
 ## Instalação
 
-- Para instalar e utilizar o aplicativo, siga os seguintes passos:
-    1. É necessário ter o git instalado no computador.
-    2. Clique no botão verde chamado ‘Code’.
-    3. Caso tenha uma chave SSH no seu computador, pode escolher a opção SSH.
-    4. Copie o endereço. Ex.: ‘[git@github.com](mailto:git@github.com):GabrielMunizz/OnlineStore.git’
-    5. Escolha uma pasta para clonar o projeto.
-    6. Entre na pasta e abra o terminal.
-    7. Digite ‘git clone endereço’. Ex.: git clone [git@github.com](mailto:git@github.com):GabrielMunizz/OnlineStore.git
-    8. Depois de clonar, entre na pasta ‘OnlineStore’ que foi gerada.
-    9. Abra o terminal e digite ‘npm install’
-    10. Ao terminar de instalar as dependências, digite ‘npm run dev’ no terminal e o projeto deve rodar no seu navegador automaticamente. 
+<details>
+<summary>Para instalar e utilizar o aplicativo, siga os seguintes passos:</summary>
+    - É necessário ter o git instalado no computador.
+    - Clique no botão verde chamado ‘Code’.
+    - Caso tenha uma chave SSH no seu computador, pode escolher a opção SSH.
+    - Copie o endereço. Ex.: ‘[git@github.com](mailto:git@github.com):GabrielMunizz/OnlineStore.git’
+    - Escolha uma pasta para clonar o projeto.
+    - Entre na pasta e abra o terminal.
+    - Digite ‘git clone endereço’. Ex.: git clone [git@github.com](mailto:git@github.com):GabrielMunizz/OnlineStore.git
+    - Depois de clonar, entre na pasta ‘OnlineStore’ que foi gerada.
+    - Abra o terminal e digite ‘npm install’
+    - Ao terminar de instalar as dependências, digite ‘npm run dev’ no terminal e o projeto deve rodar no seu navegador automaticamente. 
+</details>
 
 ## Uso
 
-- A aplicação é bem simples de usar:
+<details>
+<summary>A aplicação é bem simples de usar:</summary>
     - Para fazer cadastro, clique no botão “cadastre-se aqui’ no canto superior esquerdo da tela principal.
     - Para pesquisar, basta digitar na barra de procura o nome do produto e clicar em “Buscar”.
     - Caso tenha encontrado, para ver os detalhes do produto, clique em “Detalhes do produto”.
@@ -47,6 +50,7 @@ A aplicação é responsiva  e possui uma cobertura acima de 90% nos testes.
     - Revise os produtos no seu carrinho: caso queira aumentar a quantidade, é só clicar no botão ‘ + ’ ou diminua clicando no botão ‘ - ’.
     - Caso queira retirar algum produto, clique no botão “Remover”.
     - Ao clicar no botão “Finalizar compra”, será redirecionado para uma tela com um formulário para informações de entrega e método de pagamento. Preenchendo o formulário, basta clicar em “Concluir” e será redirecionado para uma tela de conclusão de pedido.
+</details>
 
 ## Tecnologias utilizadas
 
@@ -60,7 +64,7 @@ A aplicação é responsiva  e possui uma cobertura acima de 90% nos testes.
 
 ## Autor
 
-![Foto_fundo_transparente.png](Online%20Store%2089afb34d4ec746ccab1ae9b3efcfb89e/Foto_fundo_transparente.png)
+![Foto_fundo_transparente.png](ReadMeImages/Foto_fundo_transparente.png)
 
 E-mail: gabrielmfd@gmail.com
 

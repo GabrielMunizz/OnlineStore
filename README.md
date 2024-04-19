@@ -8,6 +8,8 @@ O objetivo da aplicação foi simular um site de e-commerce com utilização de 
 
 A aplicação é responsiva  e possui uma cobertura acima de 90% nos testes.
 
+**Confira a aplicação rodando aqui:** https://online-store-nine-omega.vercel.app/
+
 ![note.png](ReadMeImages/note.png)
 
 ![phone.png](ReadMeImages/phone.png)

@@ -8,9 +8,13 @@ O objetivo da aplicação foi simular um site de e-commerce com utilização de 
 
 A aplicação é responsiva  e possui uma cobertura acima de 90% nos testes.
 
-![note.png](ReadMeImages/note.png)
+<div style="display: flex; justify-content: center;">
+    <img src="ReadMeImages/note.png" width="250">   
+</div>
 
-![phone.png](ReadMeImages/phone.png)
+<div style="display: flex; justify-content: center;">
+    <img src="ReadMeImages/phone.png" width="250">   
+</div>
 
 ## Features:
 
@@ -64,13 +68,18 @@ A aplicação é responsiva  e possui uma cobertura acima de 90% nos testes.
 
 ## Autor
 
-![Foto_fundo_transparente.png](ReadMeImages/Foto_fundo_transparente.png)
-
-E-mail: gabrielmfd@gmail.com
-
-Linkedin: [https://www.linkedin.com/in/gabriel-muniz-dev/](https://www.linkedin.com/in/gabriel-muniz-dev/)
-
-Portfólio: [https://gabriel-munizz-github-io.vercel.app/](https://gabriel-munizz-github-io.vercel.app/)
+<div style="display: flex; flex-direction: row;">
+    <div style="flex: 1; padding-right: 20px;">
+        <img src="ReadMeImages/Foto_fundo_transparente.png" width="250">
+    </div>
+    <div style="flex: 2;">
+        <h3>Gabriel Muniz Ferreira</h3>
+        <p>Desenvolvedor Full- Stack | React.JS | TypeScript | Redux | Node.JS | MySQL | Metodologias Ágeis</p>
+        <p><a href="https://www.linkedin.com/in/gabriel-muniz-dev/" target="_blank">Linkedin</a></p>
+        <p>Email: <a href="mailto:gabrielmfd@gmail.com">gabrielmfd@gmail.com</a></p>
+        <p><a href="https://github.com/GabrielMunizz" target="_blank">GitHub</a></p>
+    </div>
+</div>
 
 ## Licença
 
